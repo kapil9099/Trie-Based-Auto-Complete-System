@@ -1,0 +1,1 @@
+The Trie-Based Auto-Complete System is a console application developed in C# that implements a Trie (prefix tree) data structure to provide auto-completion suggestions for a given prefix. The application is designed to simulate the functionality found in modern search engines, where users are offered suggestions as they begin typing a word or phrase.
