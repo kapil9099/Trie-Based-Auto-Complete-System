@@ -1,0 +1,14 @@
+C:\Users\Dell\desktop\Trie Based AutoComplete System\bin\Debug\net8.0\Trie Based AutoComplete System.exe
+C:\Users\Dell\desktop\Trie Based AutoComplete System\bin\Debug\net8.0\Trie Based AutoComplete System.deps.json
+C:\Users\Dell\desktop\Trie Based AutoComplete System\bin\Debug\net8.0\Trie Based AutoComplete System.runtimeconfig.json
+C:\Users\Dell\desktop\Trie Based AutoComplete System\bin\Debug\net8.0\Trie Based AutoComplete System.dll
+C:\Users\Dell\desktop\Trie Based AutoComplete System\bin\Debug\net8.0\Trie Based AutoComplete System.pdb
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.AssemblyInfoInputs.cache
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.AssemblyInfo.cs
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.csproj.CoreCompileInputs.cache
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.dll
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\refint\Trie Based AutoComplete System.dll
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.pdb
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\Trie Based AutoComplete System.genruntimeconfig.cache
+C:\Users\Dell\desktop\Trie Based AutoComplete System\obj\Debug\net8.0\ref\Trie Based AutoComplete System.dll
